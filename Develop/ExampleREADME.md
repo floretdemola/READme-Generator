@@ -4,7 +4,7 @@
    ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/floretdemola/READme-Generator?style=flat&logo=appveyor)
 
    Check out the badges hosted by 
-* [Mozilla Public License 2.0](https://shields.io/)
+* [The Unlicense](https://shields.io/)
 .
    
   
@@ -44,7 +44,7 @@
    
    Tests would be written here, if applicable. ## License
     
-  This project is licensed under the Mozilla Public License 2.0 license.
+  This project is licensed under the The Unlicense license.
    ---
    
    ## Questions?   

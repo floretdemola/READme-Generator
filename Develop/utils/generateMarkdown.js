@@ -59,7 +59,7 @@ function generateMarkdown(userResponses, userInfo) {
    ${userResponses.description}
    `
  
-   // Add Table of Contents to markdown
+   // Add Table of Contents
    draftMarkdown += draftToC;
 
    draftMarkdown += `
@@ -120,7 +120,7 @@ function generateMarkdown(userResponses, userInfo) {
    ${userResponses.tests}`
    };
  
-   // License section is required
+   // License section
    draftMarkdown += renderLicenseSection(userResponses.license);
  
  
@@ -137,7 +137,6 @@ function generateMarkdown(userResponses, userInfo) {
    GitHub: [@${userInfo}](https://github.com/${userInfo})
    Email: ${userInfo}@gmail.com`;
  
-   // Add developer section to markdown
    draftMarkdown += draftDev;
  
    // Return markdown
