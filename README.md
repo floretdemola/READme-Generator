@@ -66,7 +66,7 @@ You are required to submit the following for review:
 
 * A walkthrough video demonstrating the functionality of the application.
 
-![Gif Demo of README-generator](/Users/fernandoloretdemola/Desktop/SoftwareEngineer/Homework/READme-Generator/readme-demo.gif).
+![Gif Demo of README-generator](readme-demo.gif).
 
 * A sample README.md file for a project repository generated using your application
 
