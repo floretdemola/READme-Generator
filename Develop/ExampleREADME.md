@@ -1,10 +1,10 @@
-# Project Title
+# READme Generator
 
 
-   ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/undefined/readme-generator?style=flat&logo=appveyor)
+   ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/floretdemola/READme-Generator?style=flat&logo=appveyor)
 
    Check out the badges hosted by 
-* [Apache License 2.0](https://shields.io/)
+* [Mozilla Public License 2.0](https://shields.io/)
 .
    
   
@@ -12,11 +12,39 @@
    
    *The what, why, and how:* 
    
-   Project Description
+   This project’s task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
    ## Table of Contents
-   * [License](#license)## License
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+   * [License](#license)
+   
+   ## Installation
+   
+   *Steps required to install project and how to get the development environment running:*
+   
+   For installation, please make sure you have node.js installed. Next you want to make sure the correct version of nom is installed, so in the command line type “npm install inquirer@8.2.4”.
+   
+   ## Usage 
+   
+   *Instructions and examples for use:*
+   
+   Usage examples would be to create a READme.md file from the command line with the proper prompts.
+   
+   ## Contributing
+   
+   *If you would like to contribute it, you can follow these guidelines for how to do so.*
+   
+   Teams can contribute to this by providing their input on the prompts and ways to improve the READme Generator.
+   
+   ## Tests
+   
+   *Tests for application and how to run them:*
+   
+   Tests would be written here, if applicable. ## License
     
-  This project is licensed under the Apache License 2.0 license.
+  This project is licensed under the Mozilla Public License 2.0 license.
    ---
    
    ## Questions?   

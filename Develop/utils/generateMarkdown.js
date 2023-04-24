@@ -47,7 +47,7 @@ function generateMarkdown(userResponses, userInfo) {
    `# ${userResponses.title}
 
 
-   ${renderLicenseBadge(userResponses.license, userInfo.username, userResponses.repo)}
+   ${renderLicenseBadge(userResponses.license, userResponses.username, userResponses.repo)}
 
    Check out the badges hosted by ${renderLicenseLink(userResponses.license)}.
    
